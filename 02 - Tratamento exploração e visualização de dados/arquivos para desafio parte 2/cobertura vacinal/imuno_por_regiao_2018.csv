@@ -1,0 +1,19 @@
+CNES - Estabelecimentos por Tipo - Brasil
+Quantidade por Região
+Tipo de Estabelecimento: HOSPITAL ESPECIALIZADO, HOSPITAL GERAL
+Período:Out/2020
+"Região";"Quantidade"
+"1 Região Norte";553
+"2 Região Nordeste";1876
+"3 Região Sudeste";2149
+"4 Região Sul";973
+"5 Região Centro-Oeste";758
+"Total";6309
+ Fonte: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
+ Nota:
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+ 
+ Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+ De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+ A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+ 

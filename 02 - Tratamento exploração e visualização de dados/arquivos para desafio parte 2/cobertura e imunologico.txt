@@ -1,0 +1,45 @@
+COBERTURA E IMUNOBIOLÓGICOS
+Para cálculos de cobertura considera-se as seguintes populações:
+Imunobiológico 	Período (a partir de:) 	População-alvo 	Cobertura com:
+BCG (BCG) 	1994 	< 1 ano 	1ª dose
+Contra Hepatite B (HB) 	1994 	< 1 ano 	3ª dose
+Oral contra poliomielite (VOP) 	1994 	< 1 ano 	3ª dose
+Tetravalente (DTP/Hib) (TETRA) 	2002 	< 1 ano 	3ª dose
+Tríplice Bacteriana (DTP)(b) 	1994 	< 1 ano (2003: 1º e 2º reforços )
+	3ª dose
+FÓRMULA DE CÃLCULO
+
+A fórmula de cálculo da cobertura é o número de doses aplicadas da dose indicada (1ª, 2ª, 3ª dose ou dose única, conforme a vacina) dividida pela população alvo, multiplicado por 100. Exemplo: para a Tetravalente (DTP/Hib), considera-se o número de terceiras doses aplicadas na faixa etária de menores de 1 ano.
+QUANTITATIVO DE DOSES APLICADAS
+
+O quantitativo de doses aplicadas demonstrado nos gráficos de cobertura representa a quantidade de doses aplicadas na última aplicação necessária para a completa imunização. Ex. BGC, quantitativo aplicado de 1ª doses; Tetravalente (DPT/HIB), quantitativo aplicado de 3ª doses.
+PopulaÃ§Ã£o Alvo
+
+A população-alvo utilizada para cálculo das coberturas vacinais é determinada como se segue
+
+De 2002 a 2005
+
+    Para os estados de Alagoas, Amazonas, Bahia, Ceará, Maranhão, Minas Gerais, Mato Grosso, Pará, Paraíba, Piauí, Rondônia e Tocantins:
+        Estimativas populacionais preliminares do IBGE, por município, sexo e faixa etária, baseadas no Censo Demográfico do ano 2000, disponíveis em População Residente.
+    Para os estados do Acre, Amapá, Espírito Santo, Goiás, Mato Grosso do Sul, Paraná, Pernambuco, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Roraima, Santa Catarina, São Paulo, Sergipe e do Distrito Federal:
+        Para a população menor de 1 ano, os dados disponíveis de nascidos vivos, obtidos do SINASC.
+        Para a população de 1 ano, os dados disponíveis de nascidos vivos do ano anterior, obtidos do SINASC.
+        Para as demais faixas etárias, as estimativas populacionais preliminares do IBGE, por município, sexo e faixa etária, baseadas no Censo Demográfico de  2000, disponíveis em População Residente.
+        Os dados do SINASC podem sofrer alterações posteriores, as quais nem sempre se refletem na população-alvo considerada. Quando os dados do SINASC de  determinado ano não estão disponíveis, são utilizados os dados do ano anterior.
+
+A partir de 2006, para todos os estados:
+
+    Para a população menor de 1 ano e 1 ano, os dados disponíveis de nascidos vivos, obtidos do SINASC, banco de dados de 2005.
+    Para as demais faixas etárias, as estimativas populacionais preliminares do IBGE, por município, sexo e faixa etária, baseadas no Censo Demográfico de 2000, disponíveis em População Residente.
+
+Obs: Em 2002, foi realizada a implantação da vacina tetravalente para substituir as vacinas DTP e Hib isoladas na faixa etária de menores de 1 ano. Devido à  forma gradual de sua implantação e à necessidade da utilização das vacinas DTP e Hib isoladas até dezembro de 2002, é necessária a soma das vacinas para o  cálculo da cobertura vacinal da seguinte forma: para difteria, tétano e coqueluche deve-se somar as terceiras doses da vacina DTP e da vacina tetravalente; contra o haemophilus influenzae, deve-se somar as terceiras doses das vacinas Hib e tetraalente.
+OUTRAS FORMAS DE OBTER INFORMAÇÕES
+
+O DATASUS e a Secretaria de Vigilância em Saúde, por meio da Coordenação Geral do Programa Nacional de Imunizações, colocam à disposição da  comunidade diversos meios para obter informações sobre Imunizações:
+
+    No portal do Ministério da Saúde, na SVS, na página de imunizações (PNI), com dados consolidados de coberturas vacinais a partir de 1980;
+    Anuário Estatístico, publicação anual, também disponível na Internet;
+    Na publicação Programa Nacional de Imunizações - 30 anos;
+    Nos Indicadores e Dados Básicos da Saúde;
+    Na publicação "Atlas da Saúde do Brasil", da Secretaria de Vigilância em Saúde;
+    Também podem ser obtidos dados de 1980 a 1985 e 1989, apenas por estado.
